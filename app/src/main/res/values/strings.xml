@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APPaula</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtNomeMsg">Digite o seu nome</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+</resources>
